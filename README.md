@@ -6,6 +6,7 @@ Tindog is a Tinder for Dogs.
 
 Learning concepts of :
 - Responsive Website
+- Bootstrap 5
 - Bootstrap Grid and Column
 - Bootstrap Card and Carousel
 - Bootstrap Buttons
